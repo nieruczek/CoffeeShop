@@ -1,0 +1,11 @@
+Capuccino-15.99
+Americano-10.49
+Frapuccino-19.99
+Caramelacino-20.29
+Moccacino-16.99
+Croissant Classic-6.99
+Croissant Chocolate-8.99
+Croissant Almond-10.99
+Apple Pie-7.99
+Chicken Sandvich-12.99
+Brownie-14.99
